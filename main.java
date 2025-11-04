@@ -1,6 +1,6 @@
 public class main {
     public static void main(String[] args) {
-        System.out.println("Jenkins automatically detected my update!");
+        System.out.println("Jenkins automatically detected my updateyes done!");
 
     }
 }
